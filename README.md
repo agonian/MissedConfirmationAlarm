@@ -2,6 +2,11 @@
 
 MissedConfirmationAlarm is a Tkinter-based GUI application that monitors CrossFi blocks and sends notifications to Telegram in case of a failed block.
 
+You can Download the exe file
+
+https://drive.google.com/file/d/1EVBf1ObUNFoflt-1yURFBjUcFjHxuhBH/view?usp=sharing
+
+
 ## Features
 - Monitors CrossFi blocks for success and failure.
 - Plays an error sound on a failed block.
