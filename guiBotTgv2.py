@@ -14,7 +14,7 @@ import shutil
 import telepot
 
 # Telegram bot token
-TELEGRAM_TOKEN = '6572807845:AAEPc3qMsD3M3IKZFzCE-lCcP7UcgV1vACg'
+TELEGRAM_TOKEN = 'Write here your botfather telegram bot API'
 bot = telepot.Bot(TELEGRAM_TOKEN)
 
 def play_error_sound():
